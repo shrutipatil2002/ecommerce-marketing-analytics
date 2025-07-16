@@ -21,7 +21,3 @@ As a Data Analyst, I specialize in transforming raw data into clear, impactful i
 My technical skills encompass Python, SQL, Statsmodel, and various statistical techniques, with a focus on machine learning libraries like Scikit-Learn and TensorFlow. I'm dedicated to turning data into compelling stories that influence business outcomes.
 
 
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanamkandar/)
-
