@@ -13,10 +13,6 @@ I got multiple datasets related to transactions, orders, payment, locations, cus
 6. Understand customer satisfaction towards category & products
 ## 🛠 Skills
 Data Manipulation · Matplotlib · Seaborn · EDA · pandas · NumPy · Python
-## 🚀 About Me
-I'm an aspiring Data Analyst with a strong foundation in data manipulation and statistical analysis. I thrive on uncovering insights that drive decisions and am passionate about learning.
-
-As a Data Analyst, I specialize in transforming raw data into clear, impactful insights using Python, SQL, and visualization tools like Matplotlib and Power BI. My educational background includes a Post Graduate Diploma in Business Administration in Finance, and I'm currently pursuing a Data Science program at AnalytixLabs.
 
 My technical skills encompass Python, SQL, Statsmodel, and various statistical techniques, with a focus on machine learning libraries like Scikit-Learn and TensorFlow. I'm dedicated to turning data into compelling stories that influence business outcomes.
 
